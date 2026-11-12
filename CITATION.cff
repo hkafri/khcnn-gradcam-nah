@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the ICASSP 2023 paper below."
+title: "khcnn-gradcam-nah: Grad-CAM-inspired explainability for KHCNN in Nearfield Acoustic Holography"
+authors:
+  - family-names: Kafri
+    given-names: Hagar
+repository-code: "https://github.com/hkafri/khcnn-gradcam-nah"
+license: GPL-3.0
+preferred-citation:
+  type: conference-paper
+  title: "Grad-CAM-Inspired Interpretation of Nearfield Acoustic Holography using Physics-Informed Explainable Neural Network"
+  authors:
+    - family-names: Kafri
+      given-names: Hagar
+    - family-names: Olivieri
+      given-names: Marco
+    - family-names: Antonacci
+      given-names: Fabio
+    - family-names: Moradi
+      given-names: Mordehay
+    - family-names: Sarti
+      given-names: Augusto
+    - family-names: Gannot
+      given-names: Sharon
+  collection-title: "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  year: 2023
+  doi: "10.1109/ICASSP49357.2023.10097272"

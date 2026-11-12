@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# TensorFlow / training artefacts
+*.ckpt
+*.pb
+checkpoints/
+logs/
+
+# Dataset (too large for GitHub, see README)
+test_set/*.pickle
+
+# Generated outputs (keep committed example figures only)
+results/*
+!results/.gitkeep
+!results/gradcam_violin_summary.png
